@@ -1,6 +1,3 @@
-
-<!-- ### Oi :wave: Eu sou o Nanvieira -->
-
 ### Olá! Eu sou o Nanvieira :wave:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nanvieiradev)
