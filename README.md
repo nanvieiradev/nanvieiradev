@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nanvieira :wave:
 
-##### Tenho 18 anos. Sou desenvolvedor FullStack com 4 anos de experiência como programador.
+#### Tenho 18 anos. Sou desenvolvedor FullStack com 4 anos de experiência como programador.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nanvieiradev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanvieiradev)
@@ -21,4 +21,4 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Desvendando o mundo da tecnologia, um algoritmo de cada vez.
