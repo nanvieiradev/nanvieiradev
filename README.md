@@ -24,4 +24,4 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-Desvendando o mundo da tecnologia, um algoritmo de cada vez.
+Codando e desenhando o amanhã digital, linha por linha, pixel por pixel 💎
