@@ -1,6 +1,6 @@
 ### Olá! :wave: Meu nome é Renan Vieira
 
-#### Desenvolvedor FullStack e estudante de UI/UX Design com 5 anos de experiência no mundo da programação.
+#### Eu sou um Desenvolvedor Web Full Stack e aprendiz de UI/UX Design com 5 anos de experiência no mundo da programação.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nanvieiradev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanvieiradev)
