@@ -25,3 +25,7 @@
 </div><br/>
 
 Codando e desenhando o amanhã digital, linha por linha, pixel por pixel 💎
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
