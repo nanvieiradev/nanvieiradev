@@ -15,3 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nanvieiradev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/nanvieiradev)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanvieiradev@gmail.com)
+
+<div align="left">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanvieiradev&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph"  />
+</div>
