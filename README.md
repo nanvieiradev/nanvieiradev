@@ -17,6 +17,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanvieiradev@gmail.com)
 
 <div align="left">  
-  <img src="https://streak-stats.demolab.com?user=nanvieiradev&locale=pt-br&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanvieiradev&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph"  /> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=nanvieiradev&locale=pt-br&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanvieiradev&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph"  />
 </div>
